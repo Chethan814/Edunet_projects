@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Inter:wght@400;500;600;700;800;900&display=fallback);
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    min-height: 94vh;
+    box-sizing: border-box;
+    font-family: Inter;
+    background-color: #151719;
+    color: #d9e3ea;
+}
+
+header {
+    /* background-color: red; */
+    height: 5rem;
+    max-width: 1110px;
+    width: min(max-width, 100%);
+    margin: 1.5rem auto;
+
+}
