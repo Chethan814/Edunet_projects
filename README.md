@@ -24,7 +24,7 @@ This project is part of the internship training in full-stack development at Sim
 - **College:** Sims College
 - **Supervisor:** Mr. Sharath
 
-## Project Image
+## Project Image Overview
 
 <img src="readme_img\stating_page.png">
 
@@ -73,7 +73,7 @@ This project is a clone of the [Cruip.com](https://cruip.com) website. The origi
      ```bash
      git push origin main
      ```
-##IMAGES of webpage
+## IMAGES of webpage
 
 
      <img src="readme_img\1.png">
