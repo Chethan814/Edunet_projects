@@ -92,10 +92,21 @@ This project is a clone of the [Cruip.com](https://cruip.com) website. The origi
 - Sims College for hosting and Mr. Sharath supervising the project.
 
 
-## Social Media
+## Connect with me on social media:
 
-Connect with me on social media:
+<!-- Hidden Remixicon CSS Link -->
+<style>
+  .remixicon-hidden {
+    display: none;
+  }
+</style>
 
-[![LinkedIn](https://your-linkedin-logo-url.png)](https://www.linkedin.com/in/chethan-k-r-559748229/)
+<link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.0.0/fonts/remixicon.css"
+    rel="stylesheet"
+    class="remixicon-hidden"
+/>
+
+[![LinkedIn](<i class="ri-linkedin-box-fill"></i>)](https://www.linkedin.com/in/chethan-k-r-559748229/)
 [![Instagram](https://your-instagram-logo-url.png)](https://www.instagram.com/chethan3145/)
 [![GitHub](https://your-github-logo-url.png)](https://github.com/Chethan814)
