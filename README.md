@@ -26,7 +26,7 @@ This project is part of the internship training in full-stack development at Sim
 
 ## Project Image
 
-![Project Image](<img src="readme_img\stating_page.png">)
+![Project Image]<img src="readme_img\stating_page.png">
 
 ## License
 
