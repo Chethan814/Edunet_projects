@@ -1,5 +1,7 @@
 # Cruip.com Website Clone Project
 
+
+
 ## Internship Training - Full Stack Development
 
 This project is part of the internship training in full-stack development at Sims College, conducted by Edunet Company under the guidance of Mr. Sharath. The goal is to build a clone of the [Cruip.com](https://cruip.com) website to enhance skills in HTML, CSS, and version control using Git and GitHub.
@@ -7,7 +9,7 @@ This project is part of the internship training in full-stack development at Sim
 ## Technologies Used
 
 - HTML 5
-- CSS
+- CSS3
 - Git and GitHub
 
 ## Project Overview
@@ -24,7 +26,11 @@ This project is part of the internship training in full-stack development at Sim
 
 ## Project Image
 
-![Project Image](https://your-image-url.jpg)
+![Project Image](<img src="readme_img\stating_page.png">)
+
+## License
+
+This project is a clone of the [Cruip.com](https://cruip.com) website. The original design and content are subject to the license provided by Cruip.com. Please refer to the [Cruip.com License](Cruip.com) for details.
 
 ## Instructions
 
@@ -49,15 +55,7 @@ This project is part of the internship training in full-stack development at Sim
      open index.html
      ```
 
-4. **Explore and Modify:**
-   - Explore the codebase to understand the HTML and CSS structure.
-   - Make modifications to improve your understanding and skills in HTML and CSS.
-
-5. **Add a "Thanks" Section:**
-   - Create a new section in the cloned website to express gratitude or thanks.
-   - Utilize HTML and CSS to structure and style this section appropriately.
-
-6. **Commit Changes:**
+4. **Commit Changes:**
    - Commit your changes to the local repository.
 
      ```bash
@@ -65,12 +63,17 @@ This project is part of the internship training in full-stack development at Sim
      git commit -m "Added thanks section"
      ```
 
-7. **Push Changes:**
+5. **Push Changes:**
    - Push the changes to the remote repository.
 
      ```bash
      git push origin main
      ```
+
+     <img src="readme_img\1.png">
+     <img src="readme_img\2.png">
+     <img src="readme_img\3.png">
+     <img src="readme_img\4.png">
 
 ## Notes
 
@@ -81,4 +84,6 @@ This project is part of the internship training in full-stack development at Sim
 
 - The original design and content belong to [Cruip.com](https://cruip.com).
 - Edunet Company for providing the opportunity for practical learning.
-- Sims College for hosting and supervising the project.
+- Sims College for hosting and Mr. Sharath supervising the project.
+
+
