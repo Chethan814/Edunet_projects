@@ -97,3 +97,5 @@ This project is a clone of the [Cruip.com](https://cruip.com) website. The origi
 [LinkedIn](https://www.linkedin.com/in/chethan-k-r-559748229/) <br>
 [Instagram](https://www.instagram.com/chethan3145/) <br>
 [GitHub](https://github.com/Chethan814) <br>
+
+## Thank you.
