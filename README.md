@@ -26,7 +26,7 @@ This project is part of the internship training in full-stack development at Sim
 
 ## Project Image
 
-![Project Image]<img src="readme_img\stating_page.png">
+<img src="readme_img\stating_page.png">
 
 ## License
 
@@ -38,14 +38,14 @@ This project is a clone of the [Cruip.com](https://cruip.com) website. The origi
    - Clone this repository to your local machine.
 
      ```bash
-     git clone [repository_url]
+     git clone [https://github.com/Chethan814/Edunet_projects.git]
      ```
 
 2. **Project Structure:**
    - Navigate to the project directory.
 
      ```bash
-     cd cruip-clone
+     cd EDUNET_PROJECTS
      ```
 
 3. **Open in Browser:**
@@ -54,21 +54,27 @@ This project is a clone of the [Cruip.com](https://cruip.com) website. The origi
      ```bash
      open index.html
      ```
+4. **Explore and Modify:**
+   - Explore the codebase to understand the HTML and CSS structure.
+   - Make modifications to improve your understanding and skills in HTML and CSS.
 
-4. **Commit Changes:**
+
+5. **Commit Changes:**
    - Commit your changes to the local repository.
 
      ```bash
      git add .
-     git commit -m "Added thanks section"
+     git commit -m "ADD MESSAGE FOR COMMIT"
      ```
 
-5. **Push Changes:**
+6. **Push Changes:**
    - Push the changes to the remote repository.
 
      ```bash
      git push origin main
      ```
+##IMAGES of webpage
+
 
      <img src="readme_img\1.png">
      <img src="readme_img\2.png">
@@ -87,3 +93,10 @@ This project is a clone of the [Cruip.com](https://cruip.com) website. The origi
 - Sims College for hosting and Mr. Sharath supervising the project.
 
 
+## Social Media
+
+Connect with me on social media:
+
+[![LinkedIn](https://your-linkedin-logo-url.png)](https://www.linkedin.com/in/chethan-k-r-559748229/)
+[![Instagram](https://your-instagram-logo-url.png)](https://www.instagram.com/chethan3145/)
+[![GitHub](https://your-github-logo-url.png)](https://github.com/Chethan814)
