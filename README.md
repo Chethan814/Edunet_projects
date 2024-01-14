@@ -94,6 +94,6 @@ This project is a clone of the [Cruip.com](https://cruip.com) website. The origi
 
 ## Connect with me on social media:
 
-[![LinkedIn]](https://www.linkedin.com/in/chethan-k-r-559748229/)
-[![Instagram]](https://www.instagram.com/chethan3145/)
-[![GitHub]](https://github.com/Chethan814)
+![LinkedIn](https://www.linkedin.com/in/chethan-k-r-559748229/) <br>
+![Instagram](https://www.instagram.com/chethan3145/) <br>
+![GitHub](https://github.com/Chethan814) <br>
