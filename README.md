@@ -75,11 +75,7 @@ This project is a clone of the [Cruip.com](https://cruip.com) website. The origi
      ```
 ## IMAGES of webpage
 
-
-     <img src="readme_img\1.png">
-     <img src="readme_img\2.png">
-     <img src="readme_img\3.png">
-     <img src="readme_img\4.png">
+<img src='/readme_img/1.png'>
 
 ## Notes
 
